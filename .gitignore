@@ -1,0 +1,8 @@
+# logs folder
+logs/
+
+# mp3 files
+
+upload/audio/*.mp3
+
+*.jpg
